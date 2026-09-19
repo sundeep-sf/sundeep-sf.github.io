@@ -6,4 +6,4 @@ Edit the raw Markdown and its generated outline in `content/`, then run `npm run
 
 See [Publishing notes](content/README.md) for the authoring workflow.
 
-This repository preserves the blog's Git history from [sundeep-sf/sundeep-sf](https://github.com/sundeep-sf/sundeep-sf). That repository remains the GitHub profile repository and serves redirects for the previous blog URLs. Make future blog changes here.
+This repository is the only source for the blog and preserves its Git history. The separate [sundeep-sf/sundeep-sf](https://github.com/sundeep-sf/sundeep-sf) repository contains only the GitHub profile README. The old blog URLs are retired without redirects.
