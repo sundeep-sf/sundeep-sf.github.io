@@ -1,7 +1,9 @@
-- 👋 Hi, I'm Sundeep, a dev on the ml-platform team.
-- 📝 [Notes](notes/) — some notes on things I'm thinking about.
+# Sundeep's Notes
 
-<!---
-sundeep-sf/sundeep-sf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The blog lives at [sundeep-sf.github.io/notes/](https://sundeep-sf.github.io/notes/).
+
+Edit the raw Markdown and its generated outline in `content/`, then run `npm run build` and `npm test`. Commit the sources and generated HTML together. GitHub Pages publishes the root of `main` automatically after a merge.
+
+See [Publishing notes](content/README.md) for the authoring workflow.
+
+This repository preserves the blog's Git history from [sundeep-sf/sundeep-sf](https://github.com/sundeep-sf/sundeep-sf). That repository remains the GitHub profile repository and serves redirects for the previous blog URLs. Make future blog changes here.

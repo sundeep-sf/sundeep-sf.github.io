@@ -6,7 +6,7 @@ const { after, before, test } = require("node:test");
 const { chromium } = require("playwright");
 
 const root = path.resolve(__dirname, "..");
-const siteBasePath = "/sundeep-sf";
+const siteBasePath = "";
 const routes = [
   `${siteBasePath}/notes/`,
   `${siteBasePath}/notes/outliney/`,
